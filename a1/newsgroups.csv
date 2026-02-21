@@ -23,7 +23,7 @@ score,method,member,comment
 0.775,mlp,hniz,2026-02-18 23:02:01@5c89284
 0.7736,mlp,ZiruiHan,2026-02-18 23:59:34@dc880e8
 0.7711,perceptron,ColeDnought,2026-02-18 22:59:12@568e359
-0.771,mlp,KarlVM12,2026-02-20 19:03:24@d8a30e5
+0.771,mlp,KarlVM12,2026-02-20 23:30:13@fe26966
 0.7696,mlp,Kaiwen-CT,2026-02-17 22:44:55@f635679
 0.7693,mlp,dersteppenwolfruowen-316,2026-02-18 18:46:07@b2b7045
 0.7683,mlp,ririp24,2026-02-18 18:44:35@6c8ee87
@@ -53,7 +53,7 @@ score,method,member,comment
 0.7503,mlp,zhumengzhiren,2026-02-17 13:53:53@54a8805
 0.7501,perceptron,kai-maeda,2026-02-18 22:34:08@4641b91
 0.7495,perceptron,susanwu33,2026-02-17 20:57:29@a2f7e62
-0.7489,perceptron,TonyWan7,2026-02-20 20:00:46@0e23cf6
+0.7489,perceptron,TonyWan7,2026-02-20 22:20:26@b9f49e6
 0.7479,mlp,omermoav,2026-02-18 16:09:31@604a87d
 0.7477,perceptron,FarzaanNaeem,2026-02-18 20:48:40@9505585
 0.7473,mlp,kk9162,2026-02-18 19:31:40@a681134
@@ -84,7 +84,7 @@ score,method,member,comment
 0.7315,mlp,VincentPit,2026-02-15 11:20:18@f0a5306
 0.731,perceptron,gino885,2026-02-18 22:08:44@8c934d7
 0.7309,perceptron,stefan-arni,2026-02-19 00:00:07@ac0ef0f
-0.7305,perceptron,KarlVM12,2026-02-20 19:03:24@d8a30e5
+0.7305,perceptron,KarlVM12,2026-02-20 23:30:13@fe26966
 0.7305,perceptron,elooff,2026-02-10 22:27:47@fa58414
 0.7293,perceptron,chandana-21,2026-02-18 20:32:45@b089800
 0.7286,mlp,js3888-shunshun,2026-02-19 15:05:21@1574efa
@@ -141,7 +141,7 @@ score,method,member,comment
 0.7039,perceptron,rdhanushikka,2026-02-18 23:31:21@19dc8ab
 0.7033,perceptron,mdavalos10,2026-02-18 19:29:42@020cf7d
 0.7019,perceptron,ab3334-lgtm,2026-02-18 23:45:02@3414bf0
-0.7017,mlp,TonyWan7,2026-02-20 20:00:46@0e23cf6
+0.7017,mlp,TonyWan7,2026-02-20 22:20:26@b9f49e6
 0.7014,mlp,KarynN,2026-02-16 02:06:25@21b492f
 0.7013,perceptron,TaraMunjuluri,2026-02-19 00:17:32@26b892b
 0.7006,mlp,Abhinav-Kotta,2026-02-18 20:22:41@53c4915
