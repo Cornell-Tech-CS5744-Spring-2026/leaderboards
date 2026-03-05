@@ -1,46 +1,56 @@
 score,method,member,comment
-0.23108,word2vec,jeff082chen,2026-03-01 14:26:38@b654c34
-0.23044,word2vec,flash131307,2026-02-27 01:50:07@cb18e86
-0.20633,word2vec,zy495leafred,2026-03-02 16:58:21@60baf80
-0.19999,word2vec,Yuchen667,2026-03-02 11:11:40@e851e74
-0.19871,word2vec,ZiruiHan,2026-02-28 19:37:43@87c1a52
-0.19552,word2vec,ethanchen143,2026-02-26 12:04:12@6063402
-0.19222,word2vec,hollis-yang,2026-02-24 08:53:07@5134f95
-0.18394,word2vec,Gracee-Gu,2026-03-02 21:43:45@55aff9b
-0.1693,word2vec,VincentPit,2026-02-26 20:55:05@b3d0be0
-0.10765,word2vec,YanY-Henry,2026-03-01 12:14:52@3e1183f
-0.0963,word2vec,Bxvu,2026-02-27 18:55:39@d1f0386
-0.0958,word2vec,Fengzdadi,2026-03-02 00:35:06@75f54d2
-0.08537,word2vec,elooff,2026-03-01 20:35:09@a59b1fa
-0.08174,word2vec,KatrinaWan823,2026-03-02 16:57:45@f1af8ac
-0.08012,word2vec,ms3884,2026-02-26 22:06:59@abd14d6
--0.07549,word2vec,pcatattacks,2026-02-22 20:30:35@6281f20
--0.07549,word2vec,zyt02,2026-02-22 22:03:33@2049d76
--0.07549,word2vec,blabrl,2026-03-01 16:21:05@7d4ce0b
--0.07549,word2vec,sejaljain31,2026-02-21 20:07:52@26cba56
--0.07549,word2vec,dersteppenwolfruowen-316,2026-02-21 08:30:20@63dbe75
--0.07549,word2vec,JaneShuey,2026-02-21 20:18:03@67bc390
--0.07549,word2vec,vigilius405,2026-02-23 12:16:01@34e84c4
--0.07549,word2vec,Yaozzzx,2026-02-25 15:08:39@857cf78
--0.07549,word2vec,co-smith,2026-02-25 15:56:49@b339bd1
--0.07549,word2vec,FarzaanNaeem,2026-02-24 16:57:14@f7d3444
--0.07549,word2vec,SightVanish,2026-02-24 00:08:54@b0a2915
--0.07549,word2vec,curtiskao,2026-02-24 10:11:51@2626b21
--0.07549,word2vec,kk9162,2026-02-23 22:33:33@97925bd
--0.07549,word2vec,Sulaiman-Alam,2026-02-23 18:21:30@d595376
--0.07549,word2vec,cgyh98,2026-02-26 10:19:51@a674bcc
--0.07549,word2vec,qqw-ut,2026-02-26 09:09:44@91fc2e1
--0.07549,word2vec,Om-Kamath,2026-02-25 20:39:43@316cbc6
--0.07549,word2vec,mdavalos10,2026-02-25 18:54:56@e9ac633
--0.07549,word2vec,Maisa-ah,2026-02-25 17:37:39@bcd9821
--0.07549,word2vec,rt539,2026-02-26 14:31:33@58504a4
--0.07549,word2vec,Flx232,2026-02-28 01:38:54@7b290a2
--0.07549,word2vec,bogdanppop,2026-02-28 14:20:21@e7426f0
--0.07549,word2vec,Abhinav-Kotta,2026-03-01 19:42:33@7141960
--0.07549,word2vec,gino885,2026-03-02 01:39:15@9edc418
--0.07549,word2vec,ashaikh23,2026-03-02 09:16:44@ec791f9
--0.07549,word2vec,ririp24,2026-03-02 09:19:38@ab18f96
--0.07549,word2vec,theodore-chronopoulos,2026-03-02 15:03:08@76b5286
--0.07549,word2vec,Bharath-Sathappan,2026-03-02 15:22:08@c8a0563
--0.07549,word2vec,JoshAtre,2026-03-02 15:23:50@b992e67
--0.07549,word2vec,stefan-arni,2026-03-02 16:44:50@abecc56
+0.2993,word2vec,co-smith,2026-03-04 15:41:55 EST@5ede9ac
+0.26994,word2vec,Yuchen667,2026-03-04 21:29:14 EST@ceb56ef
+0.23108,word2vec,jeff082chen,2026-03-01 13:49:27 EST@b654c34
+0.23044,word2vec,flash131307,2026-02-27 01:49:34 EST@cb18e86
+0.20633,word2vec,zy495leafred,2026-03-02 16:58:18 EST@60baf80
+0.19633,word2vec,ms3884,2026-03-03 11:43:04 EST@a852ac3
+0.19552,word2vec,ethanchen143,2026-02-26 12:03:50 EST@6063402
+0.19547,word2vec,ZiruiHan,2026-03-04 18:23:13 EST@18f52a7
+0.19222,word2vec,hollis-yang,2026-02-24 08:52:57 EST@5134f95
+0.18872,word2vec,Gracee-Gu,2026-03-03 22:36:28 EST@ec341e6
+0.1693,word2vec,VincentPit,2026-02-26 20:54:58 EST@b3d0be0
+0.1601,word2vec,YanY-Henry,2026-03-03 12:54:30 EST@1327986
+0.13086,word2vec,JPL1205,2026-03-04 14:22:46 EST@d467280
+0.0963,word2vec,Bxvu,2026-02-27 18:55:24 EST@d1f0386
+0.0958,word2vec,Fengzdadi,2026-03-02 00:34:58 EST@75f54d2
+0.0915,word2vec,theodore-chronopoulos,2026-03-04 16:51:18 EST@209c2d4
+0.08537,word2vec,elooff,2026-03-01 20:11:57 EST@a59b1fa
+0.04682,word2vec,KatrinaWan823,2026-03-03 19:49:00 EST@b92af1f
+-0.07549,word2vec,rt539,2026-02-26 14:31:29 EST@58504a4
+-0.07549,word2vec,vishalival,2026-03-03 16:59:53 EST@e692681
+-0.07549,word2vec,kai-maeda,2026-03-04 18:25:36 EST@36e6599
+-0.07549,word2vec,Flx232,2026-02-28 01:38:50 EST@7b290a2
+-0.07549,word2vec,RyanWHU2016,2026-03-04 15:31:18 EST@c9b65a1
+-0.07549,word2vec,Abhinav-Kotta,2026-03-01 19:42:29 EST@7141960
+-0.07549,word2vec,Isaiah-zzz,2026-03-03 12:18:38 EST@76e9c66
+-0.07549,word2vec,Bharath-Sathappan,2026-03-02 15:22:04 EST@c8a0563
+-0.07549,word2vec,RithvikKasarla,2026-03-02 22:14:09 EST@2e975d3
+-0.07549,word2vec,stefan-arni,2026-03-02 16:44:46 EST@abecc56
+-0.07549,word2vec,gino885,2026-03-02 01:39:12 EST@9edc418
+-0.07549,word2vec,JoshAtre,2026-03-02 15:23:46 EST@b992e67
+-0.07549,word2vec,ashaikh23,2026-03-02 09:16:21 EST@ec791f9
+-0.07549,word2vec,ririp24,2026-03-02 09:19:34 EST@ab18f96
+-0.07549,word2vec,chenzizhao,2026-02-21 02:18:36 EST@403ca94
+-0.07549,word2vec,mdavalos10,2026-02-25 18:54:53 EST@e9ac633
+-0.07549,word2vec,bogdanppop,2026-02-28 14:20:12 EST@e7426f0
+-0.07549,word2vec,kk9162,2026-02-23 22:33:29 EST@97925bd
+-0.07549,word2vec,dersteppenwolfruowen-316,2026-02-21 08:30:17 EST@63dbe75
+-0.07549,word2vec,blabrl,2026-03-01 16:20:57 EST@7d4ce0b
+-0.07549,word2vec,sejaljain31,2026-02-21 20:07:49 EST@26cba56
+-0.07549,word2vec,JaneShuey,2026-02-21 20:17:59 EST@67bc390
+-0.07549,word2vec,pcatattacks,2026-02-22 20:30:31 EST@6281f20
+-0.07549,word2vec,zyt02,2026-02-22 22:03:30 EST@2049d76
+-0.07549,word2vec,vigilius405,2026-02-23 12:15:57 EST@34e84c4
+-0.07549,word2vec,Sulaiman-Alam,2026-02-23 18:21:26 EST@d595376
+-0.07549,word2vec,SightVanish,2026-02-24 00:08:51 EST@b0a2915
+-0.07549,word2vec,angela-bi,2026-02-26 14:17:46 EST@650e5c1
+-0.07549,word2vec,curtiskao,2026-02-24 10:09:04 EST@2626b21
+-0.07549,word2vec,susanwu33,2026-02-24 10:11:48 EST@86d0361
+-0.07549,word2vec,FarzaanNaeem,2026-02-24 16:57:10 EST@f7d3444
+-0.07549,word2vec,Yaozzzx,2026-02-25 15:08:35 EST@857cf78
+-0.07549,word2vec,Maisa-ah,2026-02-25 17:37:35 EST@bcd9821
+-0.07549,word2vec,Om-Kamath,2026-02-25 20:39:40 EST@316cbc6
+-0.07549,word2vec,qqw-ut,2026-02-26 09:09:40 EST@91fc2e1
+-0.07549,word2vec,cgyh98,2026-02-26 10:19:32 EST@a674bcc
+-0.07549,word2vec,bfagiolo,2026-03-04 19:47:36 EST@b886b24
