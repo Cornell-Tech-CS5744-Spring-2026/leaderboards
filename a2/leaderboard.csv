@@ -5,7 +5,7 @@ score,method,member,comment
 0.36928,word2vec,jeff082chen,2026-03-14 13:06:24 EDT@604be0b
 0.34823,word2vec,Fengzdadi,2026-03-18 19:05:17 EDT@083ddd7
 0.34687,word2vec,Kaiwen-CT,2026-03-18 15:47:17 EDT@49310fe
-0.34269,word2vec,CashelF,2026-03-18 10:15:07 EDT@b98f1eb
+0.34269,word2vec,CashelF,2026-03-19 00:08:13 EDT@8e23db4
 0.32776,word2vec,susanwu33,2026-03-18 20:40:05 EDT@8777fce
 0.32737,word2vec,ZiruiHan,2026-03-18 18:20:26 EDT@0ca0cac
 0.32096,word2vec,zhumengzhiren,2026-03-10 11:23:50 EDT@bcbb3fb
@@ -78,6 +78,7 @@ score,method,member,comment
 0.17374,word2vec,qqw-ut,2026-03-18 19:56:06 EDT@a593da0
 0.17348,word2vec,yashika-batra,2026-03-18 23:06:10 EDT@5bb6ea6
 0.17248,word2vec,Gracee-Gu,2026-03-09 17:26:51 EDT@3fb2b83
+0.17077,word2vec,tishyakhanna97,2026-03-19 18:26:42 EDT@0bf887d
 0.17051,word2vec,om239-jpg,2026-03-08 18:50:32 EDT@79c2448
 0.16811,word2vec,dylandres,2026-03-12 18:02:51 EDT@afc6bcc
 0.16702,word2vec,Maisa-ah,2026-03-18 23:39:42 EDT@16f5c9a
@@ -88,7 +89,6 @@ score,method,member,comment
 0.15836,word2vec,Isaiah-zzz,2026-03-18 23:05:24 EDT@8102470
 0.15722,word2vec,sanskeviSTAN,2026-03-18 11:38:15 EDT@d9f77b4
 0.15528,word2vec,VincentPit,2026-03-18 10:17:09 EDT@e56ae80
-0.15263,word2vec,sarahmaddy,2026-03-11 22:44:40 EDT@3f50428
 0.14867,word2vec,Bxvu,2026-03-18 23:16:36 EDT@8d3d491
 0.14691,word2vec,sw2465,2026-03-17 22:19:31 EDT@3f41ef5
 0.14582,word2vec,ms3884,2026-03-16 10:46:58 EDT@509e76e
@@ -100,15 +100,15 @@ score,method,member,comment
 0.11644,word2vec,cgyh98,2026-03-18 12:41:30 EDT@dc2d3be
 0.10595,word2vec,sa2484,2026-03-16 15:59:56 EDT@84b18f3
 0.08441,word2vec,D-Tony2020,2026-03-18 23:10:46 EDT@0d77fa1
-0.08124,word2vec,tishyakhanna97,2026-03-11 23:45:24 EDT@71770fc
 0.0677,word2vec,ammarsyed,2026-03-12 12:44:25 EDT@16524f8
 0.05985,word2vec,Sulaiman-Alam,2026-03-16 16:52:12 EDT@963ae3a
 0.04486,word2vec,jihjihk,2026-03-18 22:51:48 EDT@2ab3b2a
--0.00721,word2vec,rdhanushikka,2026-03-08 18:01:24 EDT@b9647be
+-0.05286,word2vec,sarahmaddy,2026-03-19 08:52:35 EDT@a5f37f4
 -0.06675,word2vec,advaith-1212,2026-03-18 23:24:01 EDT@e5d4b40
 -0.07549,word2vec,chenzizhao,2026-02-21 02:18:36 EST@403ca94
 -0.07549,word2vec,tungdnguyen,2026-03-05 09:57:00 EST@b48ade0
 -0.07549,word2vec,ramo2004,2026-03-07 13:12:33 EST@95bdfd3
--0.07549,word2vec,atresonia,2026-03-09 13:16:10 EDT@86e2b81
 -0.07549,word2vec,RedInJapanese,2026-03-10 21:13:10 EDT@b17b0cc
+-0.07549,word2vec,atresonia,2026-03-09 13:16:10 EDT@86e2b81
 -0.07549,word2vec,ab3334-lgtm,2026-03-10 23:50:32 EDT@29a1765
+-1.0,word2vec,rdhanushikka,2026-03-19 19:47:45 EDT@187a7ee [failed to parse embeddings] Error reading result embeddings!
