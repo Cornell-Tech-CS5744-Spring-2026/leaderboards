@@ -10,7 +10,7 @@ score,method,member,comment
 0.32737,word2vec,ZiruiHan,2026-03-18 18:20:26 EDT@0ca0cac
 0.32096,word2vec,zhumengzhiren,2026-03-10 11:23:50 EDT@bcbb3fb
 0.31378,word2vec,zy495leafred,2026-03-18 22:10:19 EDT@cd836c0
-0.31323,word2vec,hollis-yang,2026-03-09 10:33:11 EDT@b6fbfa2
+0.31323,word2vec,hollis-yang,2026-03-10 21:32:42 EDT@0ed2ee2
 0.31042,word2vec,TonyWan7,2026-03-18 23:16:46 EDT@02f4017
 0.30779,word2vec,hniz,2026-03-18 22:12:23 EDT@51c3deb
 0.30304,word2vec,fedickinson,2026-03-09 21:25:57 EDT@f4375e9
@@ -33,6 +33,7 @@ score,method,member,comment
 0.27305,word2vec,Bharath-Sathappan,2026-03-12 10:02:16 EDT@b1d17a5
 0.27227,word2vec,kai-maeda,2026-03-18 23:17:31 EDT@69d76ae
 0.27056,word2vec,kakiko99,2026-03-18 18:48:14 EDT@0fb326f
+0.26106,word2vec,rdhanushikka,2026-03-19 20:51:37 EDT@671093d
 0.26064,word2vec,curtiskao,2026-03-12 21:06:44 EDT@429a427
 0.25886,word2vec,sejaljain31,2026-03-16 22:27:26 EDT@0c5459e
 0.25584,word2vec,chandana-21,2026-03-18 18:17:11 EDT@a96d629
@@ -74,6 +75,7 @@ score,method,member,comment
 0.18315,word2vec,Flx232,2026-03-16 12:20:15 EDT@66260a7
 0.18304,word2vec,2024jswain,2026-03-15 20:53:14 EDT@b21fdf9
 0.18163,word2vec,kk9162,2026-03-18 01:04:29 EDT@9ae147a
+0.18013,word2vec,ab3334-lgtm,2026-03-20 19:56:43 EDT@072aaf5
 0.17949,word2vec,Yaozzzx,2026-03-18 19:23:30 EDT@aa8f94a
 0.17374,word2vec,qqw-ut,2026-03-18 19:56:06 EDT@a593da0
 0.17348,word2vec,yashika-batra,2026-03-18 23:06:10 EDT@5bb6ea6
@@ -106,9 +108,7 @@ score,method,member,comment
 -0.05286,word2vec,sarahmaddy,2026-03-19 08:52:35 EDT@a5f37f4
 -0.06675,word2vec,advaith-1212,2026-03-18 23:24:01 EDT@e5d4b40
 -0.07549,word2vec,chenzizhao,2026-02-21 02:18:36 EST@403ca94
--0.07549,word2vec,tungdnguyen,2026-03-05 09:57:00 EST@b48ade0
 -0.07549,word2vec,ramo2004,2026-03-07 13:12:33 EST@95bdfd3
--0.07549,word2vec,RedInJapanese,2026-03-10 21:13:10 EDT@b17b0cc
+-0.07549,word2vec,tungdnguyen,2026-03-05 09:57:00 EST@b48ade0
 -0.07549,word2vec,atresonia,2026-03-09 13:16:10 EDT@86e2b81
--0.07549,word2vec,ab3334-lgtm,2026-03-10 23:50:32 EDT@29a1765
--1.0,word2vec,rdhanushikka,2026-03-19 19:47:45 EDT@187a7ee [failed to parse embeddings] Error reading result embeddings!
+-0.07549,word2vec,RedInJapanese,2026-03-10 21:13:10 EDT@b17b0cc
