@@ -1,10 +1,10 @@
 score,method,member,comment
-0.15444,character_n_gram,giovannimonea,2026-03-21 15:17:28 EDT@61d1bf7
+0.09266,subword_n_gram,hollis-yang,2026-03-22 13:32:01 EDT@11a2e16
+0.12355,character_n_gram,hollis-yang,2026-03-22 13:32:01 EDT@11a2e16
 0.15444,subword_n_gram,giovannimonea,2026-03-21 15:17:28 EDT@61d1bf7
+0.15444,character_n_gram,giovannimonea,2026-03-21 15:17:28 EDT@61d1bf7
 0.15444,transformer,giovannimonea,2026-03-21 15:17:28 EDT@61d1bf7
-0.15444,character_n_gram,hollis-yang,2026-03-21 15:13:17 EDT@c061bab
-0.15444,subword_n_gram,hollis-yang,2026-03-21 15:13:17 EDT@c061bab
-0.15444,transformer,hollis-yang,2026-03-21 15:13:17 EDT@c061bab
+0.15444,transformer,hollis-yang,2026-03-22 13:32:01 EDT@11a2e16
 0.15444,character_n_gram,blabrl,2026-03-21 15:13:17 EDT@c061bab
 0.15444,subword_n_gram,blabrl,2026-03-21 15:13:17 EDT@c061bab
 0.15444,transformer,blabrl,2026-03-21 15:13:17 EDT@c061bab
@@ -20,3 +20,15 @@ score,method,member,comment
 0.15444,character_n_gram,ZiruiHan,2026-03-21 15:13:17 EDT@c061bab
 0.15444,subword_n_gram,ZiruiHan,2026-03-21 15:13:17 EDT@c061bab
 0.15444,transformer,ZiruiHan,2026-03-21 15:13:17 EDT@c061bab
+0.15444,character_n_gram,Bxvu,2026-03-21 15:13:17 EDT@c061bab
+0.15444,subword_n_gram,Bxvu,2026-03-21 15:13:17 EDT@c061bab
+0.15444,transformer,Bxvu,2026-03-21 15:13:17 EDT@c061bab
+0.15444,character_n_gram,abarat007,2026-03-21 15:13:17 EDT@c061bab
+0.15444,subword_n_gram,abarat007,2026-03-21 15:13:17 EDT@c061bab
+0.15444,transformer,abarat007,2026-03-21 15:13:17 EDT@c061bab
+0.15444,character_n_gram,vishalival,2026-03-21 15:13:17 EDT@c061bab
+0.15444,subword_n_gram,vishalival,2026-03-21 15:13:17 EDT@c061bab
+0.15444,transformer,vishalival,2026-03-21 15:13:17 EDT@c061bab
+0.15444,character_n_gram,Fengzdadi,2026-03-21 15:13:17 EDT@c061bab
+0.15444,subword_n_gram,Fengzdadi,2026-03-21 15:13:17 EDT@c061bab
+0.15444,transformer,Fengzdadi,2026-03-21 15:13:17 EDT@c061bab
