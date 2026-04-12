@@ -161,7 +161,7 @@ score,method,member,comment
 0.10039,subword_n_gram,SightVanish,2026-04-06 22:30:51 EDT@1eb6bc2
 0.10232,subword_n_gram,bfagiolo,2026-04-09 13:43:48 EDT@2a7721a
 0.10232,subword_n_gram,cgyh98,2026-04-10 19:48:13 EDT@97211fe
-0.10232,subword_n_gram,ch3ohi-2,2026-04-10 20:56:29 EDT@642271c
+0.10232,subword_n_gram,ch3ohi-2,2026-04-11 00:10:45 EDT@8e0e71e
 0.10232,subword_n_gram,dylandres-2,2026-04-07 22:44:33 EDT@c51715a
 0.10232,character_n_gram,JoshAtre-1,2026-04-10 23:12:48 EDT@50b7328
 0.10232,subword_n_gram,stefan-arni-3,2026-04-09 21:26:12 EDT@1a2fe45
@@ -297,10 +297,10 @@ score,method,member,comment
 0.12355,character_n_gram,Gracee-Gu-2,2026-04-08 23:08:32 EDT@71d53b1
 0.12741,transformer,tishyakhanna97,2026-04-10 22:30:22 EDT@eaf0a7c
 0.12741,transformer,cgyh98,2026-04-10 19:48:13 EDT@97211fe
-0.12934,character_n_gram,ch3ohi-2,2026-04-10 20:56:29 EDT@642271c
+0.12934,character_n_gram,ch3ohi-2,2026-04-11 00:10:45 EDT@8e0e71e
 0.12934,transformer,ac3295-lab-2,2026-04-10 18:18:02 EDT@fe1e3a9
 0.12934,transformer,adyckerh-2,2026-04-09 17:22:52 EDT@96c388e
-0.13127,transformer,ch3ohi-2,2026-04-10 20:56:29 EDT@642271c
+0.13127,transformer,ch3ohi-2,2026-04-11 00:10:45 EDT@8e0e71e
 0.13514,subword_n_gram,dexterfire861,2026-04-10 20:19:46 EDT@a102e11
 0.139,transformer,sarahmaddy-1,2026-04-10 23:05:15 EDT@200d538
 0.14093,subword_n_gram,zs462-cpu,2026-04-09 19:42:25 EDT@028aa0d
